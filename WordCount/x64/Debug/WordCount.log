@@ -1,0 +1,3 @@
+﻿  WordCount.cpp
+D:\codes\Ccode\WordCount\WordCount.cpp(4,30): warning C4083: 应输入“newline”；找到标识符“；”
+  WordCount.vcxproj -> D:\codes\Ccode\WordCount\x64\Debug\WordCount.exe
